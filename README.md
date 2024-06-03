@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VINAY-SANDEEP
 - 👀 I’m interested in java and web development
 - 🌱 I’m currently learning react and java-DSA
-- 💞️ I’m looking to collaborate on frontend development
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me Vinay Sandeep Dwarampudi (linkedin)
 - 😄 Pronouns: vishnu
 - ⚡ Fun fact: ...
