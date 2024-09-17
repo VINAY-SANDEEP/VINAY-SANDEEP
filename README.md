@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/02/51/62/1000_F_202516212_m7v0yJwPQENQedM8tmGCCPSalUxGwXPZ.jpg)](https://rishavchanda.io)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/02/51/62/1000_F_202516212_m7v0yJwPQENQedM8tmGCCPSalUxGwXPZ.jpg) 
 <h1 align="center">Hi 👋, I'm Vinay Sandeep</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
