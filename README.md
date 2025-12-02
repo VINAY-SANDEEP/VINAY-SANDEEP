@@ -2,7 +2,7 @@
 <h1 align="center">
   <span style="color:#4a90e2;">Hi 👋, I'm Vinay Sandeep</span>
 </h1>
-<h3 align="center" style="color:#e91e63;">A passionate frontend developer from India</h3>
+<h3 align="center" style="color:#e91e63;">A passionate Full Stack developer from India</h3>
 
 <img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Coding illustration" />
 
