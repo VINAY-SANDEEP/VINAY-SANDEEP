@@ -1,9 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Dwarampudi Vinay Sandeep;" />
-</h1>
+
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/02/02/51/62/1000_F_202516212_m7v0yJwPQENQedM8tmGCCPSalUxGwXPZ.jpg)
 <h1 align="center">
-  <span style="color:#4a90e2;">Hi 👋, I'm Vinay Sandeep</span>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Dwarampudi Vinay Sandeep;" />
 </h1>
 <h3 align="center" style="color:#e91e63;">A passionate Full Stack developer from India</h3>
 
