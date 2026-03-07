@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **ReactJS and Java + DSA**
 - 👯 I’m looking to collaborate on **Frontend projects**
 - 🤝 I’m open to help with **Frontend projects**
--👨‍💻 Check out my projects at [My Portfolio](https://portflio-amber.vercel.app/)
+- 👨‍💻 Check out my projects at [My Portfolio](https://portflio-amber.vercel.app/)
 - 💬 Ask me about **Web Development**
 - 📫 Reach me at **vinaysandeep782@gmail.com**
 
