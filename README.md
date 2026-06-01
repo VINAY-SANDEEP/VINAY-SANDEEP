@@ -46,3 +46,13 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-sandeep&theme=radical" alt="GitHub Streak" /></p>
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+  <tr>
+    <!-- Leetcode Section (1st Column) -->
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <h3>Leetcode Info</h3>
+      <img src="https://leetcard.jacoblin.cool/vinay_sandeep ?theme=unicorn&extension=activity" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </td>
+  </tr>
+</table>
+
