@@ -4,6 +4,9 @@
   <span style="color:#4a90e2;">Hi 👋, I'm Vinay Sandeep</span>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Dwarampudi Vinay Sandeep;" />
 </h1>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <h3 align="center" style="color:#e91e63;">A passionate Full Stack developer from India</h3>
 
 <img align="right" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Coding illustration" />
@@ -21,6 +24,8 @@
 - 📫 Reach me at **vinaysandeep782@gmail.com**
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,3 +61,12 @@
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VINAY-SANDEEP/VINAY-SANDEEP/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VINAY-SANDEEP/VINAY-SANDEEP/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/akhilesh112606/akhilesh112606/output/github-snake.svg" />
+  </picture>
+</div>
